@@ -1,0 +1,30 @@
+which is the smallest province of Pakistan by Population?
+Punjab
+Sindh
+Balochistan
+KPK
+Which is the largest province of Pakistan by Population?
+Punjab
+Sindh
+Balochistan
+KPK
+which is the smallest province of Pakistan by Area?
+Punjab
+Sindh
+Balochistan
+KPK
+Which is the largest province of Pakistan by Area?
+Punjab
+Sindh
+Balochistan
+KPK
+Which is the smallest province of Iran by Population?
+Gillan
+Ilham Province
+Kurdistan
+Fars
+Which is the largest province of iran by population?
+Sistan Balochistan
+Khorasan-e- Rizvi
+Kerman
+Tehran

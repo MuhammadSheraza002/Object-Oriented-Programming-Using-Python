@@ -1,0 +1,21 @@
+from Shaded_Circle import *
+def main():
+    screen = py.display.set_mode((800, 600))
+    screen.fill('white')
+    py.display.update()
+    # line = Line(screen, 100, 100, 200, 200)
+    circle = HollowCircle(screen, 450, 250, 50)
+    circle.draw()
+    sleep(1)
+    circle.remove()
+    sleep(1)
+    circle.draw()
+    sleep(1)
+    circle.set_center(250, 150)
+    circle.draw()
+    sleep(1)
+    circle.remove()
+    sleep(1)
+    circle.increase_size(30)
+
+main()

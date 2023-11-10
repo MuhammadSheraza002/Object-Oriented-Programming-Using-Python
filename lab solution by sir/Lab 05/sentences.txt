@@ -1,0 +1,5 @@
+He is playing.
+He was playing.
+He is always playing.
+He never plays.
+He seldom plays.

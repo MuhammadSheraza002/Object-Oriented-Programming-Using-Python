@@ -1,0 +1,12 @@
+BCSF10M501 Asim Butt 3.25
+ BCSF10M502 Sohail Raza 2.89
+ BCSF10M503 Qasim Khan 3.54
+ BCSF10M504 Nauman Tahir 3.46
+ BCSF10M505 Faraz Rana 3.15
+ BCSF10M506 Muneeb Ali 2.35
+ BCSF10M507 Kashif Malik 3.05
+ BCSF10M508 Momin Sajid 2.98
+ BCSF10M509 Raheel Khokhar 3.36
+ BCSF10M510 Saad Khan 2.98
+   
+ 

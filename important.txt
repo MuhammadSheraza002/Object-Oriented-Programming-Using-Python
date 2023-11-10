@@ -1,0 +1,15 @@
+I will share you codes related to today's class in evening,
+however, in the meantime, I want to clarify that what I have written:
+
+x = x * 10 + (s[i] -'0')  gives error in python
+
+However following codes work:
+
+x = x * 10 + int(s[i])
+or
+
+x = x * 10 + (ord(s[i])- ord(s[i]))
+
+
+However following comparison works fine:
+  if s1[i] > s2[i]
